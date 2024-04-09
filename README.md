@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## OBJETO DEL PROYECTO
 
-Plataforma de gestión deL mantenimiento de edificios con IA para optimizar operaciones mediante sensores IoT que recopilan datos procesados por big data.
+Plataforma de gestión del mantenimiento de edificios con IA para optimizar operaciones mediante sensores IoT que recopilan datos procesados por big data.
 
 ## ANTECEDENTES
 
